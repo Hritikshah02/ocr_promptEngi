@@ -52,3 +52,31 @@ python main.py --input_dir data/driving_license --doc_type driving_license --out
 Replace `doc_type` with `shop_receipt` or `resume` as needed.
 
 Outputs will be JSON files per input document in the specified output directory.
+
+## Sample Output
+
+Here is an example of a JSON output for a processed document:
+
+```json
+{
+  "full_name": "John Doe",
+  "email": "john.doe@example.com",
+  "phone_number": "123-456-7890",
+  "skills": ["Python", "Machine Learning", "Data Analysis"],
+  "work_experience": [
+    {
+      "company": "Tech Solutions Inc.",
+      "role": "Software Engineer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-08-31"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Technology",
+      "degree": "Bachelor of Science in Computer Science",
+      "graduation_year": 2018
+    }
+  ]
+}
+```
