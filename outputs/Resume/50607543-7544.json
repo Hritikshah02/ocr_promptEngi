@@ -1,0 +1,61 @@
+{
+  "full_name": "Edward Hawrot",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [
+    "Biochemistry",
+    "Neurobiology",
+    "Pharmacology",
+    "Molecular Biology",
+    "NMR"
+  ],
+  "work_experience": [
+    {
+      "company": "Yale Univ. School of Medicine",
+      "role": "Assistant Professor, Dept. of Pharmacology",
+      "start_date": "1980-01-01",
+      "end_date": "1986-12-31"
+    },
+    {
+      "company": "Yale Univ. School of Medicine",
+      "role": "Associate Professor, Dept. of Pharmacology",
+      "start_date": "1986-01-01",
+      "end_date": "1990-12-31"
+    },
+    {
+      "company": "UCSF",
+      "role": "Visiting Associate Professor, Dept. of Pharmaceutical Chemistry",
+      "start_date": "1989-01-01",
+      "end_date": null
+    },
+    {
+      "company": "Brown University",
+      "role": "Professor of Medical Science, Division of Biology and Medicine",
+      "start_date": "1990-01-01",
+      "end_date": null
+    },
+    {
+      "company": "Brown University",
+      "role": "Chairman, Section of Molecular & Biochemical Pharmacology",
+      "start_date": "1990-01-01",
+      "end_date": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Detroit",
+      "degree": "A.B. Honors Chemistry",
+      "graduation_year": 1970
+    },
+    {
+      "institution": "Harvard University Medical School",
+      "degree": "Ph.D. Biochemistry",
+      "graduation_year": 1976
+    },
+    {
+      "institution": "Harvard University Medical School",
+      "degree": "Postdoctoral Neurobiology",
+      "graduation_year": 1976
+    }
+  ]
+}

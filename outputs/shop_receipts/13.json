@@ -1,0 +1,18 @@
+{
+  "merchant_name": "Walmart",
+  "total_amount": 50.0,
+  "date_of_purchase": "2017-08-11",
+  "items": [
+    {
+      "name": "GIN CARD",
+      "quantity": 1,
+      "price": 50.0
+    },
+    {
+      "name": "SHOP.CARU ACTIVATION",
+      "quantity": 1,
+      "price": 0.0
+    }
+  ],
+  "payment_method": "CASH"
+}

@@ -1,0 +1,43 @@
+{
+  "full_name": "Rajesh S. Mathur",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Department of Obstetrics and Gynecology, Medical University of South Carolina, Charleston, South Carolina",
+      "role": "Assistant Professor",
+      "start_date": "1970-10-01",
+      "end_date": "1974-06-30"
+    },
+    {
+      "company": "Department of Obstetrics and Gynecology, Medical University of South Carolina, Charleston, South Carolina",
+      "role": "Associate Professor",
+      "start_date": "1974-07-01",
+      "end_date": "1988-06-30"
+    },
+    {
+      "company": "Department of Obstetrics and Gynecology, Medical University of South Carolina, Charleston, South Carolina",
+      "role": "Professor",
+      "start_date": "1988-07-01",
+      "end_date": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Agra University, Agra, India",
+      "degree": "B.Sc",
+      "graduation_year": 1955
+    },
+    {
+      "institution": "Agra University, Agra, India",
+      "degree": "M.Sc",
+      "graduation_year": 1957
+    },
+    {
+      "institution": "McGill University, Montreal, Canada",
+      "degree": "Ph.D.",
+      "graduation_year": 1967
+    }
+  ]
+}

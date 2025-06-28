@@ -1,0 +1,73 @@
+{
+  "merchant_name": "WHOLE FOODS",
+  "total_amount": 45.44,
+  "date_of_purchase": null,
+  "items": [
+    {
+      "name": "PL TORTILLA\u2019S",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "CAGE FREE ALL WHIT",
+      "quantity": 1,
+      "price": 3.69
+    },
+    {
+      "name": "BLACK BEANS",
+      "quantity": 1,
+      "price": 1.29
+    },
+    {
+      "name": "Frozen Mansoes 160",
+      "quantity": 1,
+      "price": 2.99
+    },
+    {
+      "name": "Whole Strawberries",
+      "quantity": 1,
+      "price": 2.99
+    },
+    {
+      "name": "OG LF COTTAGE CHEE",
+      "quantity": 1,
+      "price": 3.49
+    },
+    {
+      "name": "MAHI MAHI FILLETS",
+      "quantity": 1,
+      "price": 8.99
+    },
+    {
+      "name": "#VC    $2 off (1) WC Fill",
+      "quantity": 1,
+      "price": -2.0
+    },
+    {
+      "name": "California Harvest",
+      "quantity": 1,
+      "price": 2.69
+    },
+    {
+      "name": "PLUMS BLACK CV",
+      "quantity": 1,
+      "price": 1.99
+    },
+    {
+      "name": "NHP SLICED OVEN RO",
+      "quantity": 1,
+      "price": 3.99
+    },
+    {
+      "name": "NHP SLICED HICKORY",
+      "quantity": 1,
+      "price": 3.99
+    },
+    {
+      "name": "GALA APPLES OG",
+      "quantity": 1,
+      "price": 1.99
+    }
+  ],
+  "payment_method": null
+}

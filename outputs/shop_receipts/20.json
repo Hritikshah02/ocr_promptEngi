@@ -1,0 +1,33 @@
+{
+  "merchant_name": "DOLLAR TREE",
+  "total_amount": 25.44,
+  "date_of_purchase": "2022-09-17",
+  "items": [
+    {
+      "name": "BAHBOO CHARCOAL TOOTHBRUSH",
+      "quantity": 1,
+      "price": 1.0
+    },
+    {
+      "name": "COLGATE TOTAL WHINING TPST 1.4",
+      "quantity": 7,
+      "price": 1.0
+    },
+    {
+      "name": "SP STICK ACTIVE DEO 1.82",
+      "quantity": 5,
+      "price": 1.0
+    },
+    {
+      "name": "SPEED STCK A/P ULT SPRT 1.82",
+      "quantity": 3,
+      "price": 1.0
+    },
+    {
+      "name": "BAHBOO CHARCOAL TOOTHBRUSH",
+      "quantity": 7,
+      "price": 1.0
+    }
+  ],
+  "payment_method": "FIFTHTHIRD DEBIT"
+}

@@ -1,0 +1,60 @@
+{
+  "full_name": "GARY A. CLAWSON",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Michigan State University",
+      "role": "Research Associate",
+      "start_date": "1976-10-01",
+      "end_date": "1977-03-01"
+    },
+    {
+      "company": "University of California, San Francisco",
+      "role": "Postdoctoral Fellow",
+      "start_date": "1977-06-01",
+      "end_date": "1978-05-01"
+    },
+    {
+      "company": "University of California, San Francisco",
+      "role": "Assistant Research Biophysicist",
+      "start_date": "1978-06-01",
+      "end_date": "1981-05-01"
+    },
+    {
+      "company": "University of California, San Francisco",
+      "role": "Resident, Anatomic Pathology",
+      "start_date": "1983-05-01",
+      "end_date": "1983-06-01"
+    },
+    {
+      "company": "University of California, San Francisco",
+      "role": "Assistant Professor in Residence",
+      "start_date": "1983-07-01",
+      "end_date": "1985-06-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Michigan State University",
+      "degree": "B.S. (Mathematics)",
+      "graduation_year": 1971
+    },
+    {
+      "institution": "Michigan State University",
+      "degree": "M.S. (Mathematics)",
+      "graduation_year": 1972
+    },
+    {
+      "institution": "Michigan State University",
+      "degree": "Ph.D. (Biophysics)",
+      "graduation_year": 1976
+    },
+    {
+      "institution": "University of Miami",
+      "degree": "M.D.",
+      "graduation_year": 1983
+    }
+  ]
+}

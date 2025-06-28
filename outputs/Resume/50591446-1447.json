@@ -1,0 +1,48 @@
+{
+  "full_name": "Dr. Bertrum Sheid",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "State University of New York, Health Science Center at Brooklyn, Department of Pharmacology",
+      "role": "Associate Professor",
+      "start_date": "1975-01-01",
+      "end_date": null
+    },
+    {
+      "company": "State University of New York, Health Science Center at Brooklyn, Department of Pharmacology",
+      "role": "Assistant Professor",
+      "start_date": "1969-01-01",
+      "end_date": "1975-01-01"
+    },
+    {
+      "company": "Albert Einstein College of Medicine, Bronx, New York, Department of Pathology",
+      "role": "Assistant Professor",
+      "start_date": "1967-01-01",
+      "end_date": "1969-01-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "The City College of New York",
+      "degree": "B.S.",
+      "graduation_year": 1957
+    },
+    {
+      "institution": "Brooklyn College",
+      "degree": "M.A.",
+      "graduation_year": 1960
+    },
+    {
+      "institution": "The University of Connecticut",
+      "degree": "Ph.D.",
+      "graduation_year": 1965
+    },
+    {
+      "institution": "Columbia, College of Physicians",
+      "degree": "Postdoctoral",
+      "graduation_year": null
+    }
+  ]
+}

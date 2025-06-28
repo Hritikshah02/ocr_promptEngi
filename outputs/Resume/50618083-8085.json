@@ -1,0 +1,44 @@
+{
+  "full_name": "Raul A. DeLa Cadena, M.D.",
+  "email": "unknown@example.com",
+  "phone_number": "(215) 626-2340",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Nutrition National Institute (Dr. R. Anaya~Galindo)",
+      "role": "Research and Clinical Associate",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "company": "Gynecology and Obstetrics Center, Mexico City, MX",
+      "role": "Medical Internship (Dr. J. H. Micher)",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "company": "Childrens General Hospital of Mexico, Mexico City, Mx",
+      "role": "Medical Internship (pr. Mendez-Tena)",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "company": "Nutrition National Institute, Mexico City, MX",
+      "role": "Medical Internship (Dr. $. Ponce de Leon)",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Mexico University Center, Mexico City, MX",
+      "degree": "B.S. (Biological Sciences)",
+      "graduation_year": null
+    },
+    {
+      "institution": "La Salle University School of Medicine, Mexico City, MX",
+      "degree": "M.D.",
+      "graduation_year": 1984
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "merchant_name": "See aga ef receipt for wour",
+  "total_amount": 38.68,
+  "date_of_purchase": null,
+  "items": [
+    {
+      "name": "HAND. CLEANER 004125100005",
+      "quantity": 97,
+      "price": 1.67
+    }
+  ],
+  "payment_method": ""
+}

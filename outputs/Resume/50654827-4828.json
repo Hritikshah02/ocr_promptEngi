@@ -1,0 +1,74 @@
+{
+  "full_name": "Rappaport, Jay",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Wistar Institute of Anatomy and Biology",
+      "role": "Research Technician",
+      "start_date": "1979-01-01",
+      "end_date": "1981-12-31"
+    },
+    {
+      "company": "Department of Microbiology, University of Pennsylvania",
+      "role": "Graduate Student",
+      "start_date": "1981-01-01",
+      "end_date": "1986-12-31"
+    },
+    {
+      "company": "Laboratory of Molecular Virology, National Cancer Institute",
+      "role": "Staff Fellow",
+      "start_date": "1987-01-01",
+      "end_date": "1987-12-31"
+    },
+    {
+      "company": "Laboratory of Tumor Cell Biology, National Cancer Institute",
+      "role": "Staff Fellow",
+      "start_date": "1987-01-01",
+      "end_date": "1989-12-31"
+    },
+    {
+      "company": "Department of Medicine, UCSD",
+      "role": "Assistant Research Microbiologist",
+      "start_date": "1990-01-01",
+      "end_date": "1991-12-31"
+    },
+    {
+      "company": "Department of Medicine, George Washington University",
+      "role": "Assistant Research Professor",
+      "start_date": "1992-01-01",
+      "end_date": "1992-12-31"
+    },
+    {
+      "company": "Laboratory of Oral Medicine, National Institute of Dental Research",
+      "role": "Special Volunteer",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "company": "Laboratory of Oral Medicine/Laboratory of Developmental Biology, National Institute of Dental Research",
+      "role": "Senior Staff Fellow",
+      "start_date": "1992-01-01",
+      "end_date": "1994-12-31"
+    },
+    {
+      "company": "Mount Sinai Medical Center",
+      "role": "Associate Professor",
+      "start_date": "1994-01-01",
+      "end_date": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Pennsylvania",
+      "degree": "BA",
+      "graduation_year": 1979
+    },
+    {
+      "institution": "University of Pennsylvania",
+      "degree": "Ph.D.",
+      "graduation_year": 1986
+    }
+  ]
+}

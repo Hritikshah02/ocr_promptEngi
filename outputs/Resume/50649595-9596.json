@@ -1,0 +1,71 @@
+{
+  "full_name": "Dennis L. Fung, M.D.",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Stanford Medical Center",
+      "role": "Instructor",
+      "start_date": "1970-01-01",
+      "end_date": "1970-12-31"
+    },
+    {
+      "company": "Keesler Air Force Base",
+      "role": "Staff Anesthesiologist",
+      "start_date": "1970-01-01",
+      "end_date": "1972-12-31"
+    },
+    {
+      "company": "University of California Davis Medical Center",
+      "role": "Assistant Professor",
+      "start_date": "1972-01-01",
+      "end_date": "1981-12-31"
+    },
+    {
+      "company": "University of California Davis Medical Center",
+      "role": "Associate Clinica] Professor",
+      "start_date": "1981-01-01",
+      "end_date": "1987-12-31"
+    },
+    {
+      "company": "California State University, Sacramento",
+      "role": "Adjunct Professor",
+      "start_date": "1986-01-01",
+      "end_date": "1990-12-31"
+    },
+    {
+      "company": "University of California Davis Medical Center",
+      "role": "Clinical Professor",
+      "start_date": "1987-01-01",
+      "end_date": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University, Stanford, CA",
+      "degree": "B.S.",
+      "graduation_year": 1962
+    },
+    {
+      "institution": "UC San Francisco School of Medicine",
+      "degree": "M.D.",
+      "graduation_year": 1966
+    },
+    {
+      "institution": "Sacramento County Hospital, Sacramento, CA",
+      "degree": "Internship",
+      "graduation_year": 1967
+    },
+    {
+      "institution": "Stanford Medical Center",
+      "degree": "Research Fellowship",
+      "graduation_year": 1969
+    },
+    {
+      "institution": "Stanford University, Stanford, CA",
+      "degree": "Residency in Anesthesiology",
+      "graduation_year": 1970
+    }
+  ]
+}

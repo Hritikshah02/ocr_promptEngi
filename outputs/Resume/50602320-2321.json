@@ -1,0 +1,61 @@
+{
+  "full_name": "Ehud Razin",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Hebrew University of Jerusalem",
+      "role": "Senior Lecturer in Biochemistry",
+      "start_date": "1986-01-01",
+      "end_date": null
+    },
+    {
+      "company": "Hebrew University of Jerusalem",
+      "role": "Lecturer in Biochemistry",
+      "start_date": "1983-01-01",
+      "end_date": "1986-01-01"
+    },
+    {
+      "company": "Harvard Medical School",
+      "role": "Research Fellow - Immunopharmacology",
+      "start_date": "1982-01-01",
+      "end_date": "1984-01-01"
+    },
+    {
+      "company": "Memorial Sloan-Kettering Cancer Centre",
+      "role": "Research Fellow - Immunology",
+      "start_date": "1980-01-01",
+      "end_date": "1981-01-01"
+    },
+    {
+      "company": "UBC",
+      "role": "Visiting Professor, Biomedical Research Centre",
+      "start_date": "1989-01-01",
+      "end_date": "1990-01-01"
+    },
+    {
+      "company": "Syntex Research Co.",
+      "role": "Consultant",
+      "start_date": "1987-01-01",
+      "end_date": "1989-01-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University of Jerusalem",
+      "degree": "B. Sc. Biology",
+      "graduation_year": 1973
+    },
+    {
+      "institution": "Hebrew University of Jerusalem",
+      "degree": "M. Sc. Microbiology",
+      "graduation_year": 1975
+    },
+    {
+      "institution": "Weizmann Institute of Science",
+      "degree": "Ph.D. Immunology",
+      "graduation_year": 1980
+    }
+  ]
+}

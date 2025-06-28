@@ -1,0 +1,54 @@
+{
+  "full_name": "Jay A. Glasel",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "UCHC",
+      "role": "Prof.",
+      "start_date": "1975-01-01",
+      "end_date": null
+    },
+    {
+      "company": "UCHC",
+      "role": "Assoc. Prof.",
+      "start_date": "1970-01-01",
+      "end_date": null
+    },
+    {
+      "company": "Columbia Univ.",
+      "role": "Asst. Prof.",
+      "start_date": "1964-01-01",
+      "end_date": null
+    },
+    {
+      "company": "U.S. Air Force",
+      "role": "1st Lt.",
+      "start_date": "1962-01-01",
+      "end_date": "1964-12-31"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Calif. Inst. of Technology",
+      "degree": "B.S.",
+      "graduation_year": 1955
+    },
+    {
+      "institution": "Univ. of Chicago",
+      "degree": "Ph.D.",
+      "graduation_year": 1960
+    },
+    {
+      "institution": "Univ. of Calif., San Diego",
+      "degree": "Postdoc.",
+      "graduation_year": null
+    },
+    {
+      "institution": "Imperial College, London, UK",
+      "degree": "Postdoc.",
+      "graduation_year": null
+    }
+  ]
+}

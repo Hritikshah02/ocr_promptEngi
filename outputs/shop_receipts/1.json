@@ -1,0 +1,83 @@
+{
+  "merchant_name": "TRADER JOE'S",
+  "total_amount": 38.68,
+  "date_of_purchase": "2014-06-28",
+  "items": [
+    {
+      "name": "R-CARROTS SHREDDED 10 OZ",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "R-CUCUMBERS PERSIAN 1 LB",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "TOMATOES CRUSHED NO SALT",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "TOMATOES WHOLE NO SALT W/BASIL",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "ORGANIC OLD FASHIONED OATMEAL",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "MINI-PEARL TOMATOES",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "PKG SHREDDED MOZZARELLA LITE T",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "EGGS 1 002 ORGANIC BROWN",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "BEANS GARBANZO",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "SPROUTED CA STYLE",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "A-AVOCADOS HASS BAG 4CT",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "A-APPLE BAG JAZZ 2 LB",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "A-PEPPER BELL EACH XL RED",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "CREAMY SALTED PEANUT BUT TER",
+      "quantity": 1,
+      "price": 0.0
+    },
+    {
+      "name": "WHL WHT PITA BREAD",
+      "quantity": 2,
+      "price": 0.69
+    }
+  ],
+  "payment_method": "CASH"
+}

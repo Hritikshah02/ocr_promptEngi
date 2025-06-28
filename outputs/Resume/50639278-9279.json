@@ -1,0 +1,77 @@
+{
+  "full_name": "Meiller, Timothy F.",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Veterans Administration Hospital, Baltimore, MD",
+      "role": "Resident",
+      "start_date": "1976-01-01",
+      "end_date": "1977-12-31"
+    },
+    {
+      "company": "University of Maryland Dental School",
+      "role": "Instructor, Oral Diagnosis",
+      "start_date": "1977-01-01",
+      "end_date": "1979-12-31"
+    },
+    {
+      "company": "University of Maryland Dental School",
+      "role": "Assistant Professor, Oral Diagnosis",
+      "start_date": "1979-01-01",
+      "end_date": "1984-12-31"
+    },
+    {
+      "company": "University of Maryland Dental School",
+      "role": "Director of Patient Admissions",
+      "start_date": "1981-01-01",
+      "end_date": null
+    },
+    {
+      "company": "University of Maryland Dental School",
+      "role": "Acting Chairman, Oral Diagnosis",
+      "start_date": "1984-01-01",
+      "end_date": "1984-09-30"
+    },
+    {
+      "company": "University of Maryland Dental School",
+      "role": "Acting Director of Clinics",
+      "start_date": "1984-09-01",
+      "end_date": "1985-07-31"
+    },
+    {
+      "company": "University of Maryland Dental School and Cancer Center",
+      "role": "Associate Professor, Departments of Oral Medicine and Dentistry",
+      "start_date": "1984-01-01",
+      "end_date": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Johns Hopkins Univ., Baltimore, MD",
+      "degree": "Biology",
+      "graduation_year": null
+    },
+    {
+      "institution": "Univ. of MD Dental School, Balt., MD",
+      "degree": "Dentistry",
+      "graduation_year": null
+    },
+    {
+      "institution": "Johns Hopkins Univ., Baltimore, MD",
+      "degree": "Administration",
+      "graduation_year": null
+    },
+    {
+      "institution": "Univ. of MD Graduate School, Balt., MD",
+      "degree": "Virol/Immunal\nRetrovirology",
+      "graduation_year": null
+    },
+    {
+      "institution": "Johns Hopkins Univ. School of Medicine",
+      "degree": "",
+      "graduation_year": null
+    }
+  ]
+}

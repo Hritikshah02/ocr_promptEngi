@@ -1,0 +1,68 @@
+{
+  "full_name": "Roger Lawrence Simpson, M.D.",
+  "email": "unknown@example.com",
+  "phone_number": "516-742-3404",
+  "skills": [
+    "Plastic Surgery",
+    "Hand Surgery",
+    "Burn Surgery",
+    "General Surgery",
+    "Microsurgery"
+  ],
+  "work_experience": [
+    {
+      "company": "St. Pierre Univ. Hosp., Brussels, Belgium",
+      "role": "Internship: Rotating Medical/Surgical",
+      "start_date": "1973-07-01",
+      "end_date": "1974-07-01"
+    },
+    {
+      "company": "Hadassah Hosp., Jerusalem, Israel",
+      "role": "Internship: Rotating Medical/Surgical",
+      "start_date": "1973-07-01",
+      "end_date": "1974-07-01"
+    },
+    {
+      "company": "NCMC , East Meadow, NY",
+      "role": "Residency: General Surgery",
+      "start_date": "1974-07-01",
+      "end_date": "1978-06-01"
+    },
+    {
+      "company": "NCMC - East Meadow, NY",
+      "role": "Chief Resident, General Surgery",
+      "start_date": "1977-07-01",
+      "end_date": "1978-06-01"
+    },
+    {
+      "company": "NCMC - East Meadow, NY",
+      "role": "Residency: Plastic Surgery",
+      "start_date": "1978-07-01",
+      "end_date": "1980-06-01"
+    },
+    {
+      "company": "NCMC - East Meadow, NY",
+      "role": "Chief Resident, Plastic Surgery",
+      "start_date": "1979-07-01",
+      "end_date": "1980-06-01"
+    },
+    {
+      "company": "The Roosevelt Hospital, NYC",
+      "role": "Fellowship: Hand Surgery",
+      "start_date": "1980-07-01",
+      "end_date": "1981-01-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Syracuse Univ, syracuse",
+      "degree": "B.S.",
+      "graduation_year": 1968
+    },
+    {
+      "institution": "University of Brussels School of Medicine, Brussels, Belgium",
+      "degree": "M.D.",
+      "graduation_year": 1974
+    }
+  ]
+}

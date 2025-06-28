@@ -1,0 +1,13 @@
+{
+  "merchant_name": "See back of receipt for your",
+  "total_amount": 21.74,
+  "date_of_purchase": null,
+  "items": [
+    {
+      "name": "CUTIE CAR 063099656644 1",
+      "quantity": 88,
+      "price": 2.88
+    }
+  ],
+  "payment_method": "TEND"
+}

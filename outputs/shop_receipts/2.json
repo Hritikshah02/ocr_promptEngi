@@ -1,0 +1,18 @@
+{
+  "merchant_name": "Give us feedback",
+  "total_amount": 46.44,
+  "date_of_purchase": null,
+  "items": [
+    {
+      "name": "M ATHLETICS 019104567781 2",
+      "quantity": 74,
+      "price": 4.97
+    },
+    {
+      "name": "20 008429710921 1",
+      "quantity": 15,
+      "price": 2.97
+    }
+  ],
+  "payment_method": "TEND"
+}

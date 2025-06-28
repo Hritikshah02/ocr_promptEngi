@@ -1,0 +1,67 @@
+{
+  "full_name": "YOAV I. HENIS",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Israel Defence Forces",
+      "role": "Military service",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "company": "Department of Biological Chemistry, Institute of Life Sciences, Hebrew University of Jerusalem",
+      "role": "Research and teaching assistant",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "company": "Department of Biological Chemistry, Washington University School of Medicine",
+      "role": "Postdoctoral research associate",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "company": "Department of Biochemistry, Unit of Neuro-biochemistry, Tel Aviv University",
+      "role": "Lecturer",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "company": "Department of Biochemistry, Unit of Neuro-biochemistry, Tel Aviv University",
+      "role": "Senior Lecturer",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "company": "Whitehead Institute for Bianedical Research (M.I.T.)",
+      "role": "Visiting Scientist",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "company": "Department of Biochemistry, Unit of Neurobiochemistry, Tel Aviv University",
+      "role": "Associate Professor",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "high school, Rehovot, Israel",
+      "degree": "",
+      "graduation_year": 1968
+    },
+    {
+      "institution": "Hebrew University of Jerusalem",
+      "degree": "B.Sc. (Chemistry and Biochemistry)",
+      "graduation_year": 1974
+    },
+    {
+      "institution": "Hebrew University of Jerusalem",
+      "degree": "Ph.D.",
+      "graduation_year": 1978
+    }
+  ]
+}

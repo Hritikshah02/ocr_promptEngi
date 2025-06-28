@@ -1,0 +1,67 @@
+{
+  "full_name": "Wilson, David B.",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "The Children\u2019s Hospital, Boston, MA",
+      "role": "Intern in Pediatrics",
+      "start_date": "1986-01-01",
+      "end_date": "1987-12-31"
+    },
+    {
+      "company": "The Children's Hospital, Boston, MA",
+      "role": "Resident in Pediatrics",
+      "start_date": "1987-01-01",
+      "end_date": "1988-12-31"
+    },
+    {
+      "company": "Dana-Farber Cancer Institute, Boston, MA",
+      "role": "Clinical Fellow in Pediatrics (Hematology/Oncology)",
+      "start_date": "1988-01-01",
+      "end_date": "1990-12-31"
+    },
+    {
+      "company": "The Children's Hospital, Boston, MA",
+      "role": "Research Fellow in Medicine (Hematology/Oncology)",
+      "start_date": "1988-01-01",
+      "end_date": "1990-12-31"
+    },
+    {
+      "company": "Harvard Medical School, Boston, MA",
+      "role": "Research Fellow in Pediatrics",
+      "start_date": "1988-01-01",
+      "end_date": "1990-12-31"
+    },
+    {
+      "company": "The Children's Hospital and Harvard Medical School, Boston, MA",
+      "role": "Instructor in Medicine (Hematology/Oncology)",
+      "start_date": "1990-01-01",
+      "end_date": "1992-12-31"
+    },
+    {
+      "company": "Washington University School of Medicine, St. Louis, MO",
+      "role": "Assistant Professor of Pediatrics and Molecular Biology and Pharmacology",
+      "start_date": "1992-01-01",
+      "end_date": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kalamazoo College, Kalamazoo, MI",
+      "degree": "A",
+      "graduation_year": 1980
+    },
+    {
+      "institution": "Washington University, St. Louis, MO",
+      "degree": ".D.",
+      "graduation_year": 1986
+    },
+    {
+      "institution": "Washington University, St. Louis, MO",
+      "degree": ".D.",
+      "graduation_year": 1986
+    }
+  ]
+}

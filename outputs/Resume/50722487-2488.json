@@ -1,0 +1,61 @@
+{
+  "full_name": "Witkin, Joan Wharton",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Dept. Anat. & Cell Biol. Columbia Univ. P.&S.",
+      "role": "Research Scientist",
+      "start_date": "1991-01-01",
+      "end_date": null
+    },
+    {
+      "company": "Dept. Anat. & Cell Biol. Col. U. P.&S.",
+      "role": "Associate Research Scientist",
+      "start_date": "1985-01-01",
+      "end_date": "1991-01-01"
+    },
+    {
+      "company": "Dept. Anat. & Cell Biol. Col. U., P.&S.",
+      "role": "Postdoctoral fellow",
+      "start_date": "1982-01-01",
+      "end_date": "1985-01-01"
+    },
+    {
+      "company": "Dept. Anat. & Cell Biol. Col. U., P.&S.",
+      "role": "Staff Associate",
+      "start_date": "1981-01-01",
+      "end_date": "1982-01-01"
+    },
+    {
+      "company": "Dept. Anthro., Col. Univ.",
+      "role": "Graduate Research Assistant",
+      "start_date": "1980-01-01",
+      "end_date": null
+    },
+    {
+      "company": "Zoology Dept., Hunter College, NY, NY",
+      "role": "Instructor",
+      "start_date": "1959-01-01",
+      "end_date": "1961-01-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Mt. Holyoke College, S.Hadley, MA",
+      "degree": "BA, MA",
+      "graduation_year": 1957
+    },
+    {
+      "institution": "Columbia Univ. NY, NY",
+      "degree": "PhD",
+      "graduation_year": 1981
+    },
+    {
+      "institution": "Col. Univ., Coll. P.&S., NY, NY",
+      "degree": "Postdoc",
+      "graduation_year": null
+    }
+  ]
+}

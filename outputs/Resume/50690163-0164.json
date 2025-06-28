@@ -1,0 +1,66 @@
+{
+  "full_name": "Li, Guo-Min",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Wuhan University, China",
+      "role": "Research Assistant",
+      "start_date": "1982-01-01",
+      "end_date": "1984-12-31"
+    },
+    {
+      "company": "Wuhan University, China",
+      "role": "Lecturer",
+      "start_date": "1985-01-01",
+      "end_date": "1985-08-31"
+    },
+    {
+      "company": "Wayne State University",
+      "role": "Research Assistant",
+      "start_date": "1985-09-01",
+      "end_date": "1991-01-31"
+    },
+    {
+      "company": "Wayne State University",
+      "role": "Teaching Assistant",
+      "start_date": "1986-09-01",
+      "end_date": "1989-12-31"
+    },
+    {
+      "company": "Duke University",
+      "role": "Research Associate",
+      "start_date": "1991-02-01",
+      "end_date": "1995-08-31"
+    },
+    {
+      "company": "University of Kentucky",
+      "role": "Assistant Professor of Pathology",
+      "start_date": "1995-09-01",
+      "end_date": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Wuhan University, Wuhan, China",
+      "degree": "S. Biology",
+      "graduation_year": null
+    },
+    {
+      "institution": "Wuhan University, Wuhan, China",
+      "degree": "M.S. Biology",
+      "graduation_year": null
+    },
+    {
+      "institution": "Wayne State University, Detroit, Michigan",
+      "degree": "Ph.D. Chemistry",
+      "graduation_year": null
+    },
+    {
+      "institution": "Duke University, Durham, North Carolina",
+      "degree": "Postdoctoral Biochemistry",
+      "graduation_year": null
+    }
+  ]
+}

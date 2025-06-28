@@ -1,0 +1,33 @@
+{
+  "merchant_name": "MOMI & TOY\u2019S CREPERIE",
+  "total_amount": 175000.0,
+  "date_of_purchase": "2016-01-26",
+  "items": [
+    {
+      "name": "Woman",
+      "quantity": 7,
+      "price": 0.0
+    },
+    {
+      "name": "Ham Cheese",
+      "quantity": 2,
+      "price": 74000.0
+    },
+    {
+      "name": "Ice Java Tea",
+      "quantity": 1,
+      "price": 16000.0
+    },
+    {
+      "name": "Mineral Water",
+      "quantity": 1,
+      "price": 13000.0
+    },
+    {
+      "name": "Black & White",
+      "quantity": 1,
+      "price": 72000.0
+    }
+  ],
+  "payment_method": "CASH"
+}

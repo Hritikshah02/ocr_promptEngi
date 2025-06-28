@@ -1,0 +1,32 @@
+{
+  "full_name": "Mark Allen Sutton, M.D.",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Baylor College of Medicine\nScott Department of Urology",
+      "role": "Urology Resident",
+      "start_date": "1994-01-01",
+      "end_date": null
+    },
+    {
+      "company": "Baylor College of Medicine\nScott Department of Urology",
+      "role": "Preliminary Surgery Residency",
+      "start_date": "1992-01-01",
+      "end_date": "1994-01-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carroll College, Helena, Montana",
+      "degree": "B.A.",
+      "graduation_year": 1987
+    },
+    {
+      "institution": "University of Washington School of Medicine, Seattle, Washington",
+      "degree": "M.D.",
+      "graduation_year": 1992
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "full_name": "Cury James",
+  "email": "unknown@example.com",
+  "phone_number": "50636686",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "University cf FL Health Sci Cntr/Jacksonville",
+      "role": "Assistant Professor of Medicine\nChief, Pulmonary Medicine\nDirector of Division",
+      "start_date": "1989-06-01",
+      "end_date": null
+    },
+    {
+      "company": "The Jewish Hespital of St. Louis\nWashington Uriversity School of Medicine",
+      "role": "Assistant in Medicine",
+      "start_date": "1988-07-01",
+      "end_date": "1989-06-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Washington and Lee University, Lexington, VA",
+      "degree": "BS",
+      "graduation_year": 1977
+    },
+    {
+      "institution": "University of Miami, Miami, FL",
+      "degree": "MD",
+      "graduation_year": 1981
+    }
+  ]
+}

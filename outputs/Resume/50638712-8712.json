@@ -1,0 +1,50 @@
+{
+  "full_name": "Soon-Youl Lee",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Korea Advanced Institute of Science and Technology",
+      "role": "Research Assistant",
+      "start_date": "1983-01-01",
+      "end_date": null
+    },
+    {
+      "company": "Mogam Biotechnology Research Institute",
+      "role": "Researcher",
+      "start_date": "1983-01-01",
+      "end_date": "1987-12-31"
+    },
+    {
+      "company": "University of California at Davis",
+      "role": "Ph.D. Student",
+      "start_date": "1991-01-01",
+      "end_date": "1994-12-31"
+    },
+    {
+      "company": "University of California, Davis",
+      "role": "Teaching Assistant",
+      "start_date": "1992-01-01",
+      "end_date": null
+    },
+    {
+      "company": "Palo Alto Medical Foundation Research Institute",
+      "role": "Postdoctoral Fellow",
+      "start_date": "1994-01-01",
+      "end_date": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Seoul National University",
+      "degree": "Chemistry",
+      "graduation_year": 1983
+    },
+    {
+      "institution": "University of California at Davis",
+      "degree": "Microbiology",
+      "graduation_year": 1994
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "full_name": "James T. Kadonaga",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Harvard University",
+      "role": "Graduate Student",
+      "start_date": "1980-01-01",
+      "end_date": "1984-01-01"
+    },
+    {
+      "company": "UC Berkeley",
+      "role": "Postdoctoral Research Fellow",
+      "start_date": "1984-01-01",
+      "end_date": "1988-01-01"
+    },
+    {
+      "company": "University of California, San Diego",
+      "role": "Assistant Professor of Biology",
+      "start_date": "1988-01-01",
+      "end_date": "1992-01-01"
+    },
+    {
+      "company": "University of California, San Diego",
+      "role": "Associate Professor of Biology",
+      "start_date": "1992-01-01",
+      "end_date": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "degree": "Chemistry",
+      "graduation_year": 1980
+    },
+    {
+      "institution": "Harvard University",
+      "degree": "Chemistry",
+      "graduation_year": 1982
+    },
+    {
+      "institution": "Harvard University",
+      "degree": "Chemistry",
+      "graduation_year": 1984
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "Biochemistry",
+      "graduation_year": null
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "full_name": "Meaclows, Anna T., M.D.",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Children's Hsp. of PA",
+      "role": "Director, Div. of Onc., & Children's Cancer Research Ctr",
+      "start_date": "1986-01-01",
+      "end_date": null
+    },
+    {
+      "company": "Univ. of PA, School of Medicine, Philadelphia",
+      "role": "Professor of Pediatrics",
+      "start_date": "1985-01-01",
+      "end_date": null
+    },
+    {
+      "company": "Univ. of PA, School of Medicine, Philadelphia",
+      "role": "Assoc. Prof. of Pediatrics",
+      "start_date": "1980-01-01",
+      "end_date": "1985-01-01"
+    },
+    {
+      "company": "Children's Hospital of Philadelphia",
+      "role": "Senior Physician, Dept. of Medicine",
+      "start_date": "1978-01-01",
+      "end_date": null
+    },
+    {
+      "company": "Children's Hospital of Philadelphia",
+      "role": "Assoc. Physician, Dept. of Medicine",
+      "start_date": "1976-01-01",
+      "end_date": "1979-01-01"
+    },
+    {
+      "company": "University of PA, School of Medicine, Philadelphia",
+      "role": "Asst. Prof. of Pediatrics",
+      "start_date": "1978-01-01",
+      "end_date": "1980-01-01"
+    },
+    {
+      "company": "Children's Hospital of Philadelphia",
+      "role": "Asst. Physician, Dept. of Medicine",
+      "start_date": "1974-01-01",
+      "end_date": "1976-01-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Queens College, Flushing, NY",
+      "degree": "B.A. Liberal Arts",
+      "graduation_year": 1952
+    },
+    {
+      "institution": "New York University, New York, NY",
+      "degree": "MLA. Psychology",
+      "graduation_year": 1953
+    },
+    {
+      "institution": "Medical College of PA, Philadelphia, PA",
+      "degree": "M.D. Medicine",
+      "graduation_year": 1969
+    }
+  ]
+}

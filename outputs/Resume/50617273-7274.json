@@ -1,0 +1,44 @@
+{
+  "full_name": "Tessie Brown McNeely",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [
+    "Experimental Pathology",
+    "blood coagulation mechanisms",
+    "peptide growth hormones",
+    "insulin",
+    "parasitology",
+    "interaction of intracellular parasites with human host cells",
+    "nonclassical immune mechanisms of the lung"
+  ],
+  "work_experience": [
+    {
+      "company": "Research Service, Veterans' Administration Medical Center",
+      "role": "",
+      "start_date": "1991-11-01",
+      "end_date": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Berea College",
+      "degree": "BA Biology/Chemistry",
+      "graduation_year": 1979
+    },
+    {
+      "institution": "University of North Carolina",
+      "degree": "PhD Experimental Pathology",
+      "graduation_year": 1984
+    },
+    {
+      "institution": "Yale University",
+      "degree": "Postdoctoral Associate",
+      "graduation_year": null
+    },
+    {
+      "institution": "University of Kentucky",
+      "degree": "Postdoctoral Scholar",
+      "graduation_year": null
+    }
+  ]
+}

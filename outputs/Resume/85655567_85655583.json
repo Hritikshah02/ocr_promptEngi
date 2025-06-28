@@ -1,0 +1,50 @@
+{
+  "full_name": "Award A. Goensler, M.U.",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Boston City Hospital",
+      "role": "Intern, General Surgery",
+      "start_date": "1945-01-01",
+      "end_date": "1946-12-31"
+    },
+    {
+      "company": "Boston City Hospital",
+      "role": "Jr. Asst. Resident, 4th Surgical Service",
+      "start_date": "1946-01-01",
+      "end_date": "1947-12-31"
+    },
+    {
+      "company": "Boston City Hospital",
+      "role": "Asst. Resident, Thoracic Surgery Service",
+      "start_date": "1947-01-01",
+      "end_date": "1948-12-31"
+    },
+    {
+      "company": "Sanatorium Div. of B.C.H.",
+      "role": "Asst. Resident, Thoracic Surgery Service",
+      "start_date": "1948-01-01",
+      "end_date": "1949-12-31"
+    },
+    {
+      "company": "Sanatorium Div. of B.C.H.",
+      "role": "Chief Resident, Thoracic Surgery Service",
+      "start_date": "1949-01-01",
+      "end_date": "1950-12-31"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Haverford College",
+      "degree": "B.S.",
+      "graduation_year": 1942
+    },
+    {
+      "institution": "Harvard Medical School",
+      "degree": "M.D.",
+      "graduation_year": 1945
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "full_name": "Alexei J. Likhachev",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "International Agency for Research on Cancer",
+      "role": "Staff Member",
+      "start_date": "1980-01-01",
+      "end_date": "1984-12-31"
+    }
+  ],
+  "education": [
+    {
+      "institution": "1st Leningrad Medical Institute",
+      "degree": "Ph.D.",
+      "graduation_year": 1966
+    }
+  ]
+}

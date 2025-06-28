@@ -1,0 +1,38 @@
+{
+  "full_name": "Linding Yang, M.D.",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [],
+  "work_experience": [
+    {
+      "company": "Sun Yat-sen Memorial Hospital",
+      "role": "Resident Vascular Surgeon",
+      "start_date": "1982-01-01",
+      "end_date": "1987-12-31"
+    },
+    {
+      "company": "Sun Yat-sen Memorial Hospital",
+      "role": "Surgeon-in-Charge",
+      "start_date": "1987-01-01",
+      "end_date": "1988-12-31"
+    },
+    {
+      "company": "The Wistar Institute",
+      "role": "Associate Scientist",
+      "start_date": "1988-01-01",
+      "end_date": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Health School of Traditional Chinese Medicine",
+      "degree": "Chinese Medicine",
+      "graduation_year": 1978
+    },
+    {
+      "institution": "Sun Yat-sen University of Medical Sciences",
+      "degree": "M.D.",
+      "graduation_year": 1982
+    }
+  ]
+}

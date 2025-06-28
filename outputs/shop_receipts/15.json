@@ -1,0 +1,13 @@
+{
+  "merchant_name": "Walmart",
+  "total_amount": 30.12,
+  "date_of_purchase": "2016-07-22",
+  "items": [
+    {
+      "name": "Insects Catcher ta 1 with Walmart",
+      "quantity": 1,
+      "price": 30.12
+    }
+  ],
+  "payment_method": "Visa"
+}

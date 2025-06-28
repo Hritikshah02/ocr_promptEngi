@@ -1,0 +1,57 @@
+{
+  "full_name": "Terry Gordon",
+  "email": "unknown@example.com",
+  "phone_number": "",
+  "skills": [
+    "Physiology",
+    "Toxicology"
+  ],
+  "work_experience": [
+    {
+      "company": "Institute of Environmental Medicine, New York University Medical Center",
+      "role": "Assistant Professor",
+      "start_date": "1989-01-01",
+      "end_date": null
+    },
+    {
+      "company": "Cardiovascular Research Institute, University of California, San Francisco",
+      "role": "Assistant Research Physiologist",
+      "start_date": "1985-01-01",
+      "end_date": "1988-12-31"
+    },
+    {
+      "company": "Cardiovascular Research Institute, University of California, San Francisco",
+      "role": "Research Fellow",
+      "start_date": "1983-01-01",
+      "end_date": "1985-12-31"
+    },
+    {
+      "company": "Gulf Oil Corporation",
+      "role": "Section Head, Inhalation Toxicology",
+      "start_date": "1981-01-01",
+      "end_date": "1983-12-31"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "degree": "",
+      "graduation_year": null
+    },
+    {
+      "institution": "University of Michigan",
+      "degree": "",
+      "graduation_year": null
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "degree": "",
+      "graduation_year": null
+    },
+    {
+      "institution": "University of California, San Francisco",
+      "degree": "Postdoctoral Fellow",
+      "graduation_year": null
+    }
+  ]
+}
