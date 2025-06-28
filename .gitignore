@@ -1,0 +1,15 @@
+__pycache__/
+outputs/
+*.env
+*.DS_Store
+*.docx
+credentials/
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.exe
+*.log
+*.tmp
